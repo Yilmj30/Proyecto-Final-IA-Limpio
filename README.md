@@ -111,4 +111,4 @@ jupyter notebook
 
 ## Informe
 
-📄 `Informe-Proyecto Final IA` · 
+📄 `Informe_Yilmar David Murillo Jordan` · 
