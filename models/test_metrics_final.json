@@ -1,0 +1,9 @@
+{
+  "model": "lightgbm_tuned",
+  "split": "test",
+  "accuracy": 0.8735,
+  "precision": 0.8,
+  "recall": 0.8075,
+  "f1": 0.8037,
+  "roc_auc": 0.9285
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "jeorregog1",
+  "problem_type": "binary_classification_dropout",
+  "selection_metric": "f1",
+  "best_validation_candidate": {
+    "model": "lightgbm_tuned",
+    "split": "validation",
+    "accuracy": 0.8765060240963856,
+    "precision": 0.8173076923076923,
+    "recall": 0.794392523364486,
+    "f1": 0.8056872037914692,
+    "roc_auc": 0.9235098650051922
+  },
+  "best_tuned_validation_metrics": {
+    "model": "lightgbm_tuned",
+    "split": "validation",
+    "accuracy": 0.8765060240963856,
+    "precision": 0.8173076923076923,
+    "recall": 0.794392523364486,
+    "f1": 0.8056872037914692,
+    "roc_auc": 0.9235098650051922
+  },
+  "lightgbm_best_params_path": "models/lightgbm_best_params.json",
+  "lightgbm_tuning_results_path": "models/lightgbm_tuning_results.csv",
+  "validation_metrics_path": "models/metrics_validation_candidates.csv",
+  "best_model_path": "models/checkpoints/lightgbm_dropout_model.pkl",
+  "validation_figure_path": "data/processed/fig8_validation_model_comparison.png"
+}

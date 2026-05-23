@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# Datos grandes (el dataset sí se sube porque es pequeño)
+data/processed/eda_report.html
+
+# Modelos grandes
+models/checkpoints/*.pkl
+models/checkpoints/*.pt
+models/checkpoints/*.bin
+
+# Sistema
+.DS_Store
+Thumbs.db
