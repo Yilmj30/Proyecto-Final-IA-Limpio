@@ -39,7 +39,7 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/Valesague52/Proyecto-Final---IA-.git
+git clone https://github.com/Yilmj30/Proyecto-Final-IA-Limpio.git
 cd Proyecto-Final---IA-
 python -m venv venv
 .\venv\Scripts\Activate.ps1
